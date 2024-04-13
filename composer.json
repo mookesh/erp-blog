@@ -1,12 +1,7 @@
 {
-    "name": "mookesh/erp-blog",
-    "description": "erp-blog-module",
+    "name": "ci_erp_module/blog",
+    "description": "blog-module",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Mookesh\\ErpBlog\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Mookesh nanda",
