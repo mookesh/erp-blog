@@ -8,6 +8,6 @@ class Blog extends BaseController
 {
 	public function index()
 	{
-		echo "Core BLOG Module";
+		echo "Core BLOG Module X";
 	}
 }
